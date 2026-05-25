@@ -1,0 +1,56 @@
+{
+    "name": "\"The Safe Cracker\" ",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "adventure": "github:microsoft/arcade-tutorial-extensions/adventure#v0.0.16",
+        "sam-tts": "github:Monk070/makecode-sam-speech#cd94131300b14ec0d0c625e91f668f5e51e49457",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.3",
+        "Sprite Walls": "github:Sonicblaston62/Sprite-Walls#86a57ee3f0c3cb96b06187a92ea5235b58adb687",
+        "pxt-lantern": "github:felixtsu/pxt-lantern#v0.2.1",
+        "arcade-sprite-util": "github:jwunderl/arcade-sprite-util#v0.4.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.61",
+        "tag": "v2.0.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/46e1f878ac2b238b3b86f17ea661d738b1395aaa",
+        "target": "4.0.14",
+        "pxt": "11.3.65",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#F0F0F0",
+        "#DB0000",
+        "#1D6600",
+        "#FF6200",
+        "#FFD60A",
+        "#2E2E2E",
+        "#1D6600",
+        "#005EFF",
+        "#001F06",
+        "#000500",
+        "#6F00FF",
+        "#525252",
+        "#757575",
+        "#3B3B3B",
+        "#000000"
+    ]
+}
